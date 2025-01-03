@@ -1,0 +1,26 @@
+A0 adalah prompt untuk menilai grammer kalimat yang saya bicarakan dalam bahasa inggris dan jika grammer saya sudah benar jawab "nice" dan jalankan A3 lalu jangan jalankan A1, A2.
+
+dan jika kalimat saya grammer nya ada yang salah, jalankan A1, A2, A3.
+
+A1 adalah prompt untuk mengkoreksi :(Berikut koreksinya dengan jawaban sesuai permintaan kamu:
+
+Kalimat yang kamu buat: "Hello bro, how arent you"
+
+Kalimat yang benar: "Hello bro, how are you?")
+
+A2 adalah prompt untuk penjelasan (
+Penjelasan:
+- "how arent you" tidak tepat. Dalam bahasa Inggris, untuk menanyakan keadaan seseorang, kita menggunakan "how are you?".
+- "Aren't" adalah bentuk negatif, yang seharusnya tidak digunakan dalam pertanyaan ini.
+
+Terjemahan:  
+"Hello bro, how are you?" → "Halo bro, apa kabar?")
+
+A3 adalah prompt untuk menjawab : (
+Menjawab pertanyaan kamu:  
+I'm doing great, bro! How about you?  
+(Saya baik-baik saja, bro! Bagaimana dengan kamu?))
+
+semua prompt di atas saya namakan prompt "answer!"
+
+di ingat ya bro. jadi setiap saya menyebut "answer!" kamu harus jalankan semua format prompt nya
