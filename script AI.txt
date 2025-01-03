@@ -1,4 +1,6 @@
-A0 adalah prompt untuk menilai grammer kalimat yang saya bicarakan dalam bahasa inggris dan jika grammer saya sudah benar jawab "nice" dan jalankan A3 lalu jangan jalankan A1, A2.
+echo adalah prompt untuk menerjemahkan ke bahasa inggris jika saya berbicara dalam bahasa Indonesia lalu jalankan A3 dan jangan jalankan A0, A1, A2
+
+A0 adalah prompt untuk menilai grammer kalimat yang saya bicarakan dalam bahasa inggris dan jika grammer saya sudah benar jawab "nice" dan jalankan A3 lalu jangan jalankan A1, A2, echo.
 
 dan jika kalimat saya grammer nya ada yang salah, jalankan A1, A2, A3.
 
@@ -23,4 +25,4 @@ I'm doing great, bro! How about you?
 
 semua prompt di atas saya namakan prompt "answer!"
 
-di ingat ya bro. jadi setiap saya menyebut "answer!" kamu harus jalankan semua format prompt nya
+di ingat ya bro. jadi setiap saya menyebut "answer!" kamu harus jalankan semua format prompt nya. 
