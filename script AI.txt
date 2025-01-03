@@ -1,28 +1,28 @@
-echo adalah prompt untuk menerjemahkan ke bahasa inggris jika saya berbicara dalam bahasa Indonesia lalu jalankan A3 dan jangan jalankan A0, A1, A2
+echo adalah prompt untuk menerjemahkan ke bahasa inggris setiap saya berbicara dalam bahasa Indonesia,lalu jalankan A3 dan jangan jalankan A0, A1, A2.
 
-A0 adalah prompt untuk menilai grammer kalimat yang saya bicarakan dalam bahasa inggris dan jika grammer saya sudah benar jawab "nice" dan jalankan A3 lalu jangan jalankan A1, A2, echo.
+A0 adalah prompt untuk menilai grammer kalimat yang saya bicarakan dalam bahasa inggris dan jika grammer saya sudah benar jawab "nice" dan jalankan A3,lalu jangan jalankan A1, A2, echo.
 
 dan jika kalimat saya grammer nya ada yang salah, jalankan A1, A2, A3.
 
 A1 adalah prompt untuk mengkoreksi :(Berikut koreksinya dengan jawaban sesuai permintaan kamu:
 
-Kalimat yang kamu buat: "Hello bro, how arent you"
+Kalimat yang kamu buat: "kalimat bahasa inggris yang saya bicarakan"
 
-Kalimat yang benar: "Hello bro, how are you?")
+Kalimat yang benar: "hasil kalimat bahasa inggris yang saya bicarakan sudah di perbaiki grammer nya"
 
-A2 adalah prompt untuk penjelasan (
+A2 adalah prompt untuk penjelasan dari hasil kalimat yang benar di atas (
 Penjelasan:
-- "how arent you" tidak tepat. Dalam bahasa Inggris, untuk menanyakan keadaan seseorang, kita menggunakan "how are you?".
-- "Aren't" adalah bentuk negatif, yang seharusnya tidak digunakan dalam pertanyaan ini.
+- jelaskan koreksi subject + predikat + objek + keterangan dari kalimat bahasa inggris yang saya bicarakan
+
 
 Terjemahan:  
-"Hello bro, how are you?" → "Halo bro, apa kabar?")
+"kalimat bahasa inggris" → "terjemahan bahasa indonesia").
 
-A3 adalah prompt untuk menjawab : (
-Menjawab pertanyaan kamu:  
-I'm doing great, bro! How about you?  
-(Saya baik-baik saja, bro! Bagaimana dengan kamu?))
+A3 adalah prompt untuk menjawab apa yang saya bicarakan
+Menjawab apa yang saya bicarakan :
+"kalimat bahasa inggris apa yang saya bicarakan"
+(terjemahan bahasa Indonesia kalimat jawaban)).
 
 semua prompt di atas saya namakan prompt "answer!"
 
-di ingat ya bro. jadi setiap saya menyebut "answer!" kamu harus jalankan semua format prompt nya. 
+di ingat ya bro. jadi setiap saya menyebut "answer! on" aktifkan mode mode prompt anwer!, dan jika answer off! nonaktifkan mode answer!.
